@@ -331,11 +331,41 @@ layout: post
 
 <br/><br/>
 
-![mikko](/liskuvat/varakuva.jpg)
+![uula](/liskuvat/uula.jpg)
+<p style="text-align: center;font-size:30px;"> <b>uula</b> </p> 
+
+   "Älä laita mulle pisteitä!!"
+
+<br/><br/>
+
+![mikko](/liskuvat/mikko.jpg)
 <p style="text-align: center;font-size:30px;"> <b>mikko</b> </p>
+
+   "syntynyt olemaan huono häviäjä :^)"
 
 <br/><br/>
 
 ![anna](/liskuvat/varakuva.jpg)
 <p style="text-align: center;font-size:30px;"> <b>anna</b> </p>
+
+<br/><br/>
+
+![dinah](/liskuvat/varakuva.jpg)
+<p style="text-align: center;font-size:30px;"> <b>dinah</b> </p>
+
+<br/><br/>
+
+![nelda](/liskuvat/varakuva.jpg)
+<p style="text-align: center;font-size:30px;"> <b>nelda</b> </p>
+
+<br/><br/>
+
+![iita](/liskuvat/varakuva.jpg)
+<p style="text-align: center;font-size:30px;"> <b>iita</b> </p>
+
+<br/><br/>
+
+![nova](/liskuvat/varakuva.jpg)
+<p style="text-align: center;font-size:30px;"> <b>nova</b> </p>
+
 
