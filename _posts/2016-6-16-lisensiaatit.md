@@ -334,14 +334,14 @@ layout: post
 ![uula](/liskuvat/uula.jpg)
 <p style="text-align: center;font-size:30px;"> <b>uula</b> </p> 
 
-   "Älä laita mulle pisteitä!!"
+    "Älä laita mulle pisteitä!!"
 
 <br/><br/>
 
 ![mikko](/liskuvat/mikko.jpg)
 <p style="text-align: center;font-size:30px;"> <b>mikko</b> </p>
 
-   "syntynyt olemaan huono häviäjä :^)"
+    "syntynyt olemaan huono häviäjä :^)"
 
 <br/><br/>
 
