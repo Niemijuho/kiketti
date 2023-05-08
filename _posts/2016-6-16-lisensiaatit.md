@@ -353,8 +353,10 @@ layout: post
 
 <br/><br/>
 
-![nelda](/liskuvat/varakuva.jpg)
+![nelda](/liskuvat/nelda.jpg)
 <p style="text-align: center;font-size:30px;"> <b>nelda</b> </p>
+
+    "Nää 8 tyypin kiketit on kyllä ihan horror"
 
 <br/><br/>
 
