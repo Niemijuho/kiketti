@@ -368,4 +368,11 @@ layout: post
 ![nova](/liskuvat/varakuva.jpg)
 <p style="text-align: center;font-size:30px;"> <b>nova</b> </p>
 
+<br/><br/>
+
+![nova](/liskuvat/villeaiti.jpg)
+<p style="text-align: center;font-size:30px;"> <b>swi</b> </p>
+
+
+
 
